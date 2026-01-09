@@ -12,8 +12,8 @@
     "clean": "rm -rf dist"
   },
   "keywords": [],
-  "author": "https://x.com/digbenjamins",
-  "license": "ISC",
+  "author": "https://github.com/deganDev",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "@types/luxon": "^3.4.2",
